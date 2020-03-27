@@ -1,0 +1,1 @@
+start "test" /min part_manager.exe
